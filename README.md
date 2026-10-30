@@ -1,39 +1,42 @@
-# LinkedIn profile content 
+# Hi, I'm Jimberith Sathishbabu 👋
 
-## Headline
-Electronics & Communication Engineering Student | Embedded Systems | IoT | RF & Microwave | ESP32 · STM32 · 8051
+**Electronics & Communication Engineering student** at Kongu Engineering College, Erode, Tamil Nadu.
+I work on embedded systems, microcontroller programming, IoT and RF/microwave design, and I'm looking for core-domain roles in Embedded Systems and Communication technologies.
 
-## About
-Electronics and Communication Engineering student at Kongu Engineering College with hands-on experience in embedded systems, microcontroller programming and IoT development. I work with C and Python (basics), circuit design and sensor integration, and I've built projects ranging from an ESP32-based attendance system to a dual-band SIW antenna simulated in CST Studio Suite.
+## 🔧 Technical Skills
 
-I'm actively seeking core-domain roles where I can apply my knowledge of embedded systems and communication technologies.
+| Area | Tools & Technologies |
+|---|---|
+| Programming | C, Python (basics) |
+| Microcontrollers & platforms | 8051, ESP32, STM32 |
+| Hardware & protocols | RFID, fingerprint sensors, IC 555 |
+| Software & tools | Keil uVision, Proteus, STM32CubeIDE, CST Studio Suite, Altium Designer |
 
-Skills: C, Python, 8051, ESP32, STM32, RFID, Keil uVision, Proteus, STM32CubeIDE, CST Studio Suite, Altium Designer
+## 🚀 Projects
 
-## Location
-Erode, Tamil Nadu, India
+- **Attendance Management System**: ESP32 camera, MongoDB Atlas, image processing and IoT. A location-tracking attendance system with real-time data logging and remote access.
+- **Traffic Light Control System**: 8051 microcontroller. Controls and simulates a real-time traffic light sequence.
+- **SIW-Based Dual Slotted Self-Diplexing Transceiver**: Substrate Integrated Waveguide design in CST Studio Suite, simulated for dual-frequency operation at 2.45 GHz and 5.6 GHz.
 
-## Education
-1. Kongu Engineering College: B.E., Electronics and Communication Engineering (currently pursuing)
-2. Kongu Polytechnic College: Diploma, Electronics and Communication Engineering (87%)
+<!-- TODO: link each project to its repository once confirmed -->
 
-## Experience
-**Industrial Trainee, Elite Systems & Controls, Erode** (Dec 26 to Dec 31, 2024)
-Completed 5-day industrial training on C programming for the 8051 microcontroller and circuit simulation using industry-standard tools. Gained hands-on exposure to embedded systems development workflows in a professional environment.
+## 🎓 Education
 
-## Licenses & Certifications
+- B.E. Electronics & Communication Engineering, Kongu Engineering College (pursuing)
+- Diploma in Electronics & Communication Engineering, Kongu Polytechnic College (87%)
+
+## 📜 Certifications & Training
+
 - International Certification in Embedded Systems
 - International Certification in STM32
-- PCB Designing Training (Altium Designer and Proteus), Kongu Engineering College, Perundurai (Mar 2026)
+- PCB Designing training (single and double layer, Altium Designer and Proteus), Kongu Engineering College, March 2026
+- In-plant training in C for the 8051 microcontroller, Elite Systems & Controls, Erode, December 2024
 
-## Projects
-1. **Attendance Management System** (ESP32 Camera, MongoDB Atlas, Image Processing, IoT): Built a location-tracking attendance system with real-time data logging and remote access.
-2. **Traffic Light Control System** (8051 Microcontroller): Programmed an 8051 microcontroller to simulate and control a real-time traffic light sequence.
-3. **SIW-Based Dual Slotted Self-Diplexing Transceiver** (Substrate Integrated Waveguide, RF/Microwave, CST Studio Suite): Designed and simulated a dual slotted self-diplexing transceiver operating at 2.45 GHz and 5.6 GHz simultaneously.
+## 🏆 Achievements
 
-## Honors & Awards
-- 3rd place, 30-hour Internal Hackathon
-- 3rd place, Technical Quiz, Sakthi Polytechnic College
+- 3rd place, 30-hour internal hackathon
+- 3rd place, technical quiz, Sakthi Polytechnic College
 
-## Skills (add and pin the top 3)
-Embedded Systems, Microcontrollers, IoT, C, Python, ESP32, STM32, 8051, PCB Design, RF Engineering, Image Processing, CST Studio Suite, Proteus, Keil uVision
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/jim-berith-s-2109902b7/)
